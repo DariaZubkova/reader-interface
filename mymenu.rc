@@ -1,0 +1,13 @@
+#include "mymenu.h"
+
+Menu MENU {
+    POPUP "&FILE" {
+        MENUITEM "&Open...", ID_OPEN
+        MENUITEM "&Close", ID_CLOSE
+    }
+
+    POPUP "&MODE SELECTION" {
+        MENUITEM "&No filter", ID_MODE_NO_FILTER
+        MENUITEM "&With filter", ID_MODE_FILTER
+    }
+}

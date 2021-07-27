@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1573979449 source:c:\users\dasha\onedrive\Документы\1234567\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	"mymenu.h"
+
+1572428852 c:\users\dasha\onedrive\Документы\1234567\mymenu.h
+
+1572472298 source:c:\users\dasha\onedrive\Документы\1234567\mymenu.rc
+	"mymenu.h"
+
+1574235381 source:c:\users\dasha\onedrive\Документы\1234567\main.c
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	"mymenu.h"
+
+1575360511 source:c:\users\dasha\onedrive\Рабочий стол\zubkovadaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	"mymenu.h"
+
+1572428852 c:\users\dasha\onedrive\Рабочий стол\zubkovadaria\mymenu.h
+
+1572472298 source:c:\users\dasha\onedrive\Рабочий стол\zubkovadaria\mymenu.rc
+	"mymenu.h"
+
